@@ -1,6 +1,6 @@
 -- Welcome to your new Castle project!
--- htts://playcastle.io
--- Castle uses Love2D 11.1 for rendering and input.
+-- https://playcastle.io
+-- Castle uses Love2D 11.1 for rendering and input: https://love2d.org/
 -- See here for some useful Love2D documentation:
 -- https://love2d-community.github.io/love-api/
 
